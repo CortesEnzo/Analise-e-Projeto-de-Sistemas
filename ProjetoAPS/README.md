@@ -6,9 +6,15 @@
 Este projeto é um trabalho acadêmico da disciplina **Engenharia de Software** da Universidade de Brasília (UnB/UDF). Ele consiste em uma análise e desenvolvimento de um sistema que aplica princípios e boas práticas da engenharia de software.
 
 ### 👥 **WHO** (Quem?)
-- **Desenvolvedor(es):** Kadidjah
+- **Desenvolvedor(es):**
+- [João Guilherme Sousa Sales]( https://github.com/joaoguilherme-pro )
+- [Enzo cortes de Lima](https://github.com/CortesEnzo)
+- [Caio Gomes Neto Maia da Silva](https://github.com/Caiogms4238/APS)
+- Samuel Borges Cordeiro
 - **Instituição:** Centro Universitário UDF 
 - **Disciplina:** Engenharia de Software
+
+# [Desenvolvimento](https://github.com/joaoguilherme-pro/Analise_projeto_Sistemas/tree/main/ProjetoAPS)
 
 ### ⏰ **WHEN** (Quando?)
 - **Período:** 2026
